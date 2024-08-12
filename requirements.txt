@@ -4,7 +4,7 @@ attrs==23.2.0
 autobahn==23.6.2
 Automat==22.10.0
 Babel==2.10.3
-bcc==0.29.1
+bcc==0.1.10
 bcrypt==3.2.2
 blinker==1.7.0
 Brlapi==0.8.5
@@ -62,6 +62,7 @@ mdurl==0.1.2
 monotonic==1.6
 netaddr==0.8.0
 netifaces==0.11.0
+numpy==2.0.1
 oauthlib==3.2.2
 olefile==0.46
 packaging==24.0
@@ -109,6 +110,8 @@ social-auth-core==4.5.4
 sqlparse==0.4.4
 systemd-python==235
 torbrowser-launcher==0.3.7
+traitlets==5.14.3
+traittypes==0.2.1
 translation==1.0.5
 Twisted==24.3.0
 txaio==23.1.1
